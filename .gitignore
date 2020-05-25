@@ -8,7 +8,7 @@
 
 # dependencies
 /node_modules
-.events
+.env
 /api/data/files/*
 
 # profiling files
